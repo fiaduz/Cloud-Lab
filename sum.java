@@ -1,8 +1,9 @@
-public class Sum{
-public static void main(String[] args){
-int a = 5;
-int b = 6;
-int c = a+b;
-System.out.println("The sum is: "+c);
-}
+public class MyClass {
+    public static void main(String args[]) {
+      int x=10;
+      int y=25;
+      int z=x+y;
+
+      System.out.println("Sum of x+y = " + z);
+    }
 }
